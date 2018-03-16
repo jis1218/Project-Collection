@@ -6,6 +6,6 @@
 
 4. [음악 플레이어](https://github.com/jis1218/MusicPlayer)
 
-5. [Firebase를 이용한 Between 앱 따라하기](https://github.com/jis1218/Between_Project)
+5. [Firebase를 이용한 Between 앱 따라하기](https://github.com/jis1218/Between_Share)
 
 6. [여행앱 Explog](https://github.com/jis1218/Explog)
